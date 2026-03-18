@@ -46,7 +46,7 @@
   
 - 💬 Ask me about anything [here](https://github.com/comexpert-mic/comexpert-mic/issues)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-devking-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-comexpert-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <div align="center">
 
