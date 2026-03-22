@@ -18,7 +18,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
   <div>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=comexpert-mic&show_icons=true&theme=transparent)
   <p align="center">
     <a href="https://github.com/comexpert-mic">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=comexpert-mic&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
